@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Ubuntu:wght@500&display=swap');
+
+body {
+  font-size: 100%;
+  font-family: "Ubuntu", monospace;
+  background-color: #e5c075;
+  color: #e5c075;
+  width: 50%;
+  padding: 0 2em 1em;
+  justify-content: center;
+}
+
+main {
+  border: #e5c075 double 0.5rem;
+  padding-left: 15%;
+  padding-right: 15%;
+  border-radius: 10px;
+  min-height: 95vh;
+  padding-bottom: 35px;
+  background: linear-gradient(-32deg, #282c34, #21252b, #17161d);
+}
+
+h1 {
+  color: #e5c075;
+  
+  text-align: center;
+  font-weight: 900;
+
+  border-bottom: solid #e5c075 0.125rem;
+  padding-right: 5%;
+  text-align: left;
+  margin-bottom: 0.5em;
+}
+
+label {
+  float: left;
+  width: 10em;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+input,
+select {
+  width: 12em;
+  color: #e5c075;
+  margin-left: 1em;
+  margin-bottom: 0.5rem;
+  background-color: #21252b;
+}
+
+.big-hr {
+  border-bottom: #e5c075 solid 0.25rem;
+}
+
+.sm-hr {
+  border-bottom: #677696 solid 0.006125rem;
+}
+
+.content {
+  clear: both;
+  text-align: right;
+  width: 100%;
+}
+
+#calculate {
+  border: #e5c075 0.25rem solid;
+  color: #e5c075;
+  font-size: 150%;
+  font-weight: 900;
+  border-radius: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#calculate:hover {
+  color: #56b6c2;
+  border-color: #56b6c2;
+}
+
+.jumbotron {
+  background-color: transparent;
+}
+
+#type {
+  color: #e5c075;
+  font-weight: 900;
+}

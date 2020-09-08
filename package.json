@@ -1,0 +1,15 @@
+{
+  "name": "highbaugh_a6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "invoice_total.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "prettier": "^2.0.2"
+  }
+}

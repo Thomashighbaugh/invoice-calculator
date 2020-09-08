@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6b1cef-beea-4dcf-ad05-e78d5c1eb146" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7cjibopd" />
+  </component>
+  <component name="ProjectId" id="1a0WszNYMELiDNVBGTe6UmICGjQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Highbaugh_A6/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6b1cef-beea-4dcf-ad05-e78d5c1eb146" name="Default Changelist" comment="" />
+      <created>1585873201662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585873201662</updated>
+      <workItem from="1585873202875" duration="300000" />
+      <workItem from="1585873858933" duration="24000" />
+      <workItem from="1585873913704" duration="696000" />
+      <workItem from="1585874639247" duration="4571000" />
+      <workItem from="1585887086055" duration="208000" />
+      <workItem from="1585887335804" duration="2236000" />
+      <workItem from="1585889620047" duration="131000" />
+      <workItem from="1585889798446" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="395" width="705" height="233" key="#Prettier" timestamp="1585889498933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="602" y="395" width="705" height="233" key="#Prettier/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1585889498933" />
+    <state x="36" y="317" width="887" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585888234908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="36" y="317" width="887" height="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1585888234908" />
+    <state x="396" y="-12" key="SettingsEditor" timestamp="1585889927487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="396" y="-12" key="SettingsEditor/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1585889927487" />
+    <state x="333" y="63" key="SettingsEditor/1600.189.1920.1080/0.0.1600.900@0.0.1600.900" timestamp="1585874621519" />
+    <state x="683" y="362" width="544" height="300" key="cloudConfig.PluginsDialog" timestamp="1585889684599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="683" y="362" width="544" height="300" key="cloudConfig.PluginsDialog/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1585889684599" />
+    <state x="17" y="550" width="1886" height="477" key="cloudConfig.SelfSettingsDialog" timestamp="1585889653517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="17" y="550" width="1886" height="477" key="cloudConfig.SelfSettingsDialog/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1585889653517" />
+  </component>
+</project>

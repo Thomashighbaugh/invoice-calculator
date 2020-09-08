@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Invoice Total Calculator</title>
+    <!--    add in external stylesheet -->
+    <link
+      rel="stylesheet"
+      href="node_modules/bootstrap/dist/css/bootstrap.css"
+    />
+    <!--add in stylesheet-->
+    <link rel="stylesheet" type="text/css" href="invoice_total.css" />
+    <!--add in Javascript-->
+    <script type="text/javascript" src="invoice_total.js"></script>
+  </head>
+
+  <body class="container">
+    <main class="align-content-center">
+      <section class="jumbotron">
+        <!--header of the application-->
+        <h1 class="display-3 h3">Invoice Calculator</h1>
+        <p class="text-right">
+          Enter the two values that follow and click "Calculate".
+        </p>
+      </section>
+      <hr class="big-hr" />
+      <!--    input region with dropdown-->
+      <section class="content">
+        <label for="type">Customer Type:</label>
+        <select id="type">
+          <option value="r">Regular</option>
+          <option value="l">Loyalty Program</option>
+          <option value="h">Honored Citizen</option>
+          <option value="e">Employee</option>
+        </select>
+      </section>
+      <section class="content">
+        <br />
+        <!--        output region-->
+        <hr class="sm-hr" />
+        <label for="subtotal">Invoice Subtotal:</label>
+        <input type="text" id="subtotal" /><br />
+        <hr class="big-hr" />
+        <label for="percent">Discount Percent:</label>
+
+        <input type="text" id="percent" disabled /><br />
+        <hr class="sm-hr" />
+
+        <label for="discount">Discount Amount:</label>
+        <input type="text" id="discount" disabled /><br />
+        <hr class="sm-hr" />
+
+        <label for="total">Invoice Total:</label>
+        <input type="text" id="total" disabled /><br />
+      </section>
+      <br />
+      <section class="interactive-content">
+        <!--        button-->
+        <label>&nbsp;</label>
+        <input type="button" id="calculate" class="btn" value="CALCULATE" />
+        <br />
+      </section>
+    </main>
+  </body>
+</html>
